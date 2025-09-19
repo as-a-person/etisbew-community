@@ -1,5 +1,5 @@
 # etisbew-community
-thing for having "our" mini projects within
+thing for having "our" minute projects within
 
 hosted by falmount
 
