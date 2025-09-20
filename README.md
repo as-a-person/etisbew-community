@@ -18,3 +18,4 @@ philopaste (hold): random prize or "punish"
 ###### currently one
 
 aeiaaa94 (owner)
+Carnation77756 (collaborator)
