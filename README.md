@@ -15,11 +15,10 @@ The
 
 philopaste (hold): random prize or "punish"
 
-
 THE (carnation)
 
 # give ideas, and heres current collaborators
-###### currently one
+###### currently two
 
 aeiaaa94 (owner)
 
