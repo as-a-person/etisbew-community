@@ -17,8 +17,10 @@ philopaste (hold): random prize or "punish" (by falmount)
 THE (work in progress): new language (by carnation)
 
 # give ideas, and heres current collaborators
-###### currently two
+###### currently three
 
 aeiaaa94 (owner)
 
 Carnation77756 (collaborator)
+
+Schmoobly (collaborator)
